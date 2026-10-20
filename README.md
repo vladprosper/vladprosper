@@ -15,7 +15,7 @@ My interests sit at the intersection of:
 
 The demo uses local mock adapters. It is a learning and review artifact, with no live platform integrations or production-readiness claims.
 
-[Watch or download the narrated walkthrough](mission-control-walkthrough.gif) · [Read the architecture article (Word)](The%20Architecture%20Behind%20My%20AI%20Assisted%20Work.docx) · [View the full architecture diagram](Mission%20Control%20Full%20Architecture.png)
+[Explore the source code, setup and tests](https://github.com/vladprosper/mission-control-demo) · [Watch or download the narrated walkthrough](mission-control-walkthrough.gif) · [Read the architecture article (Word)](The%20Architecture%20Behind%20My%20AI%20Assisted%20Work.docx) · [View the full architecture diagram](Mission%20Control%20Full%20Architecture.png)
 
 The walkthrough follows one fictional article and its recurring research review, from a paused draft through evidence, an owner decision, later results and the next question. Its data, agent actions, platform observations and destinations are simulated.
 
