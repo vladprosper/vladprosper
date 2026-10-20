@@ -21,6 +21,16 @@ The walkthrough follows one fictional article and its recurring research review,
 
 ![Mission Control fictional article and research-review walkthrough](mission-control-walkthrough.gif)
 
+## Recent courseware I authored or co-authored
+
+Recent examples of courseware I authored or co-authored for IBM learning programs:
+
+- [watsonx Orchestrate Practitioner Advanced](https://www.credly.com/org/ibm/badge/watsonx-orchestrate-practitioner-advanced)
+- [watsonx.governance Practitioner Advanced](https://www.credly.com/org/ibm/badge/watsonx-governance-practitioner-advanced.1)
+- [OpenShift AI Practitioner Advanced](https://www.credly.com/org/ibm/badge/openshift-ai-practitioner-advanced)
+
+These links describe the associated IBM credentials on Credly; they are not personal earned-badge records or direct course-enrollment links.
+
 ## Writing and conversation
 
 - [The Sovereign AI on Substack](https://thesovereignai.substack.com)
